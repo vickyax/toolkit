@@ -1,0 +1,140 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+#bo2{
+    background-color: #e13e7a;
+}
+#bo{
+    background-image: url("images/pexels.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+h1 {
+    font-size: 5rem;
+    color: #7bc3db;
+    text-shadow: 3px 0 #DA0463;
+    text-align: center;
+  
+  }
+  #lch{
+    font-size: 5rem;
+  color: #b50101;
+  text-shadow: 3px 0 #cf3e7f;
+  text-align: center;
+  }
+
+.drum{
+    outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+footer{
+    text-align: center;
+}
+.set{
+    margin: 10% auto;
+}
+.drum:hover{
+    color: darkgreen;
+}
+
+.w{
+background-image: url("images/crash.png");
+}
+.a{
+    background-image: url("images/kick.png");
+}
+.s{
+    background-image: url("images/snare.png");
+}
+.d{
+    background-image: url("images/tom1.png");
+}
+.j{
+    background-image: url("images/tom2.png");
+}
+.k{
+    background-image: url("images/tom3.png");
+}
+.l{
+    background-image: url("images/tom4.png");
+}
+.div1{
+    position: relative;
+    left: 28%;
+}
+.div2{
+    position: relative;
+    left: 50%;
+    top: -90px;
+}
+#l1{
+    font-size: 1.5rem;
+    color: #8d1515;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#cal{
+   background-color: #DA0463;
+   color: rgb(26, 13, 200);
+   border-radius: 10%;
+   top: 20px;
+   left: 40%;
+   font-size: 1.5rem;
+   position: relative;
+}
+#cal:hover{
+    background-color: #2d70b7;
+    color: rgb(240, 7, 7);
+}
+#fname1{
+height: 30px;
+border-radius: 10%;
+}
+#fname2{
+    height: 30px;
+    border-radius: 10%;
+}
+#d1{
+    position: relative;
+    font-size: 30px;
+    left: 45%;
+    top: 40%;
+    background-image: url("/images/drumkit.jpeg");
+ background-color: #b64545;
+ color: #2d70b7;
+}
+#d1:hover{
+    font-size: 32px;
+    background-color: #c92121;
+ color: #2d70b7;
+}
+
+#d2{
+    position: relative;
+    font-size: 30px;
+    left: 32%;
+    top: 50%;
+    background-image: url("/images/valentinesday.jpg");
+    background-color: #b64545;
+ color: #2d70b7;
+}
+#d2:hover{
+    font-size: 32px;
+    background-color: #b81919;
+ color: #2d70b7;
+}

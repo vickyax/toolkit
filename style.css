@@ -92,8 +92,8 @@ background-image: url("images/crash.png");
    background-color: #DA0463;
    color: rgb(26, 13, 200);
    border-radius: 10%;
-   top: 20px;
-   left: 40%;
+   top: 40px;
+   left: 28%;
    font-size: 1.5rem;
    position: relative;
 }

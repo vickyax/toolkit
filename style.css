@@ -112,7 +112,7 @@ border-radius: 10%;
 #d1{
     position: relative;
     font-size: 30px;
-    left: 45%;
+    left: 35%;
     top: 40%;
     background-image: url("/images/drumkit.jpeg");
  background-color: #b64545;
@@ -127,8 +127,8 @@ border-radius: 10%;
 #d2{
     position: relative;
     font-size: 30px;
-    left: -10;
-    top: 50%;
+    left: 50;
+    top: 40%;
     background-image: url("/images/valentinesday.jpg");
     background-color: #b64545;
  color: #2d70b7;

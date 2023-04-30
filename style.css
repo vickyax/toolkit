@@ -109,32 +109,32 @@ border-radius: 10%;
     height: 30px;
     border-radius: 10%;
 }
-#d1{
-    position: relative;
-    font-size: 30px;
-    left: 35%;
-    top: 40%;
-    background-image: url("/images/drumkit.jpeg");
- background-color: #b64545;
- color: #2d70b7;
-}
 #d1:hover{
     font-size: 32px;
     background-color: #c92121;
+    color: #2d70b7;
+}
+#d2:hover{
+    font-size: 32px;
+    background-color: #b81919;
+ color: #2d70b7;
+}
+#d1{
+    position: relative;
+    font-size: 30px;
+    
+ background-color: #b64545;
  color: #2d70b7;
 }
 
 #d2{
     position: relative;
     font-size: 30px;
-    left: 50;
-    top: 40%;
-    background-image: url("/images/valentinesday.jpg");
     background-color: #b64545;
  color: #2d70b7;
 }
-#d2:hover{
-    font-size: 32px;
-    background-color: #b81919;
- color: #2d70b7;
+#fr{
+    position: absolute;
+    top: 30%;
+    left: 30%;
 }
